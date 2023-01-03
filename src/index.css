@@ -1,0 +1,21 @@
+.search-box {
+  width: 100%;
+  text-align: center;
+}
+
+
+.header {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  text-align: center;
+  width: 100%
+}
+
+.typeMsg {
+  color: black
+}
+
+.package-card {
+  text-align: center;
+}
